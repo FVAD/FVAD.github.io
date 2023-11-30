@@ -64,7 +64,7 @@ window.addEventListener(
         timeout: 2500,
         icon: false,
         title: hello,
-        message: "你好喵~这个主页是改自 南淮花酱 的个人页面~欢迎来这里玩~",
+        message: "你好喵~这个主页是我的个人页面~欢迎来这里玩~",
       });
     }, 800);
 
